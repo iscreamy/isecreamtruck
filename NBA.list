@@ -1,6 +1,0 @@
-rules:
-    DOMAIN-SUFFIX,nba.com
-    DOMAIN-SUFFIX,on.nba.com
-    DOMAIN-SUFFIX,watch.nba.com
-    DOMAIN-SUFFIX,api.nba.com
-    DOMAIN-SUFFIX,cdn.nba.com
