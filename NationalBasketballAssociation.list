@@ -4,3 +4,8 @@ DOMAIN-SUFFIX,watch.nba.com
 DOMAIN-SUFFIX,api.nba.com
 DOMAIN-SUFFIX,cdn.nba.com
 DOMAIN-SUFFIX,images.nba.com
+DOMAIN,nba-cdn.cloud.easelive.tv
+DOMAIN,nba.studio.easelive.tv
+DOMAIN,nbaprop.hb-api.omtrdc.net
+DOMAIN,nbaprop.sc.omtrdc.net
+DOMAIN,nbaprop.tt.omtrdc.net
